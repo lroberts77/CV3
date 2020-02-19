@@ -1,6 +1,6 @@
 ## Liam Roberts
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+The main driver for signing up to Makers was my desire to change careers. I chose coding because I enjoy problem solving and learning new things. Those two, coupled with the challenging nature of coding made it an appealing option
 
 ## Skills
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Jan 2020 to May 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -32,9 +32,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+Ealing Tertiary College 98 – 99
+
+BTEC GNVQ IT intermediate (Merit)
+
 
 #### Any other qualifications
 
@@ -42,14 +43,35 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+Ecommerce Manager
+Dates Employed Jan 2013 – Jan 2020
+Liaise with various teams to ensure orders are put together correctly and delivered in a timely manner
+Rota planning, resource management, task prioritisation for delivery, loaders and warehouse teams and dealing with any internal requests or complaints
+Escalation point for customer support queries related to home deliveries
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+Asda AA drivetech assessor
+Dates Employed Jan 2011 – Dec 2013
+Final assessor for new drivers, deciding their employment in accordance to Asda’s requirements
+Training new drivers to AA drivetech standards
+
+TACHOCARD COMPUTER SERVICES LIMITED
+IT Technician Supervisor
+Dates Employed Jan 2006 – Jan 2010
+Ensuring productivity targets and work quality standards are met
+Organizing and managing employee’s hours, pay and required work equipment
+
+1st line helpdesk
+Dates Employed Jan 2003 – Jan 2006
+Taking calls, e-mails and providing assistance to customers and logging calls
+Escalating unsolved problems
+
+Computer Technician
+Dates Employed Jun 1999 – Jan 2003
+Diagnosing hardware and software problems
+Repairing or replacing faulty hardware components
+Configuring, installing and updating software
+Setting up and configuring computer networks
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I play basketball regularly in a local league
