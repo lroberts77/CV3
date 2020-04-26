@@ -75,3 +75,5 @@ Setting up and configuring computer networks
 ## Hobbies
 
 I play basketball regularly in a local league
+
+# NOT FINISHED YET 
