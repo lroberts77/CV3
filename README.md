@@ -40,7 +40,7 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-### Ecommerce Manager
+### Asda Ecommerce Manager
 Dates Employed Jan 2013 – Jan 2020\
 Liaise with various teams to ensure orders are put together correctly and delivered in a timely manner
 Rota planning, resource management, task prioritisation for delivery, loaders and warehouse teams and dealing with any internal requests or complaints
