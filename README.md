@@ -51,7 +51,7 @@ Dates Employed Jan 2011 – Dec 2013\
 Final assessor for new drivers, deciding their employment in accordance to Asda’s requirements
 Training new drivers to AA drivetech standards
 
-### TACHOCARD COMPUTER SERVICES LIMITED
+### Tachocard Computer Services Limited
 #### IT Technician Supervisor
 Dates Employed Jan 2006 – Jan 2010\
 Ensuring productivity targets and work quality standards are met
