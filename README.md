@@ -30,10 +30,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
-
-Ealing Tertiary College 98 – 99
-
+#### Ealing Tertiary College 98 – 99
 BTEC GNVQ IT intermediate (Merit)
 
 
@@ -44,13 +41,13 @@ That in some arguable way make you a better software developer or well-rounded p
 ## Experience
 
 ### Ecommerce Manager
-Dates Employed Jan 2013 – Jan 2020
+Dates Employed Jan 2013 – Jan 2020\
 Liaise with various teams to ensure orders are put together correctly and delivered in a timely manner
 Rota planning, resource management, task prioritisation for delivery, loaders and warehouse teams and dealing with any internal requests or complaints
 Escalation point for customer support queries related to home deliveries
 
 ### Asda AA drivetech assessor
-Dates Employed Jan 2011 – Dec 2013
+Dates Employed Jan 2011 – Dec 2013\
 Final assessor for new drivers, deciding their employment in accordance to Asda’s requirements
 Training new drivers to AA drivetech standards
 
