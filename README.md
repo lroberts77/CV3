@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (Feb 2020 to April 2020)
+#### Makers Academy Feb 2020 to April 2020
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -72,5 +72,10 @@ Setting up and configuring computer networks
 ## Hobbies
 
 I play basketball regularly in a local league
+
+## Contact
+- email: liamroberts77@googlemail.com
+- phone: 07717749485
+- city: London
 
 # NOT FINISHED YET 
