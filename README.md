@@ -1,4 +1,4 @@
-## Liam Roberts
+# Liam Roberts
 
 The main driver for signing up to Makers was my desire to change careers. I chose coding because I enjoy problem solving and learning new things. Those two, coupled with the challenging nature of coding made it an appealing option
 
@@ -21,22 +21,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+
 ## Education
 
-#### Makers Academy Feb 2020 to April 2020
+#### Makers Academy (Feb 2020 to May 2020)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Competent with programming practises such as OOP, TDD, MVC
+- Efficient work using Agile/XP
+- Web development with Ruby, Rails, JavaScript, HTML, CSS and React
+- SQL, postgreSQL, sqlite
+- Testing frameworks such as RSpec, Jasmine
 
-#### Ealing Tertiary College 98 – 99
+#### Ealing Tertiary College (98 – 99)
 BTEC GNVQ IT intermediate (Merit)
-
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Experience
 
@@ -71,11 +68,11 @@ Setting up and configuring computer networks
 
 ## Hobbies
 
-I play basketball regularly in a local league
+- I play basketball regularly in a local league
+- Learning Romanian. Slowly but surely I am working my way through the ranks of Duolingo to improve my Romanian and be able to order food and drinks in Romania on my holidays.
+
 
 ## Contact
 - email: liamroberts77@googlemail.com
 - phone: 07717749485
 - city: London
-
-# NOT FINISHED YET 
