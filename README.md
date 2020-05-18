@@ -7,7 +7,7 @@ E-commerce manager turned software Developer, I am a recent graduate of Makers A
 ## Skills
 
 #### Efficient and economical
-I consciously try to be as efficient as possible, which sometimes conflicts with my need to make sure everything is as perfect as possible. But I have learned to strike a good balance between the two. My last two roles have taught me a lot about working under pressure, working methodically to solve problems and communication which I have used to help me to 
+I consciously try to be as efficient as possible, which sometimes conflicts with my need to make sure everything is as perfect as possible. But I have learned to strike a good balance between the two. My last two roles have taught me a lot about working under pressure, working methodically to solve problems and communication which I have used to help me to become a better software developer.
 
 #### Communication and teamwork
 During my time at Makers, I was tasked with programming in pairs or teams nearly every day of the course. Communication is crucial to continuous learning as well as being able to summarise problems to find efficient solutions. I am confident in explaining technological concepts with metaphors and non-technical language in order to make it as accessible as possible.
