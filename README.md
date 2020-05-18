@@ -74,9 +74,9 @@ Setting up and configuring computer networks
 ## Hobbies
 
 - I enjoy playing basketball and when I go on vacation, some basketball has to be involved! It is a real passion of mine and I love the team work and competitiveness, even when I lose it motivates me to learn and improve so we win next time.
-![ball](https://github.com/lroberts77/CV/tree/master/assets/ball-pic.jpg?raw=true)
+![ball](https://github.com/lroberts77/CV/blob/master/Assets/ball-pic.jpg?raw=true)
 - Learning Romanian. Slowly but surely I am working my way through the ranks of Duolingo to improve my Romanian. I want to be able to order food and drinks during my holidays.
-![dracula](https://github.com/lroberts77/CV/tree/master/assets/draculas-castle.jpg?raw=true)
+![dracula](https://github.com/lroberts77/CV/blob/master/Assets/draculas-castle.jpg?raw=true)
 - I like to keep active, so during lockdown I rediscovered my love of mountain biking. The first time I got back on a bike after many years all the good memories I had of riding through beautiful bike trails with friends came flooding back.  
 
 
