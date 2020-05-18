@@ -76,7 +76,7 @@ Setting up and configuring computer networks
 - I enjoy playing basketball and when I go on vacation, some basketball has to be involved! It is a real passion of mine and I love the team work and competitiveness, even when I lose it motivates me to learn and improve so we win next time.
 ![ball](https://github.com/lroberts77/CV/blob/master/Assets/ball-pic.jpg?raw=true "WBA 2019 -20 cup winner and finals MVP")
 - Learning Romanian. Slowly but surely I am working my way through the ranks of Duolingo to improve my Romanian. I want to be able to order food and drinks during my holidays.
-![dracula](https://github.com/lroberts77/CV/blob/master/Assets/draculas-castle.jpg?raw=true "Draculas castle")
+![dracula](https://github.com/lroberts77/CV/blob/master/Assets/draculas-castle.jpg?raw=true "Draculas castle, ROMANIA")
 - I like to keep active, so during lockdown I rediscovered my love of mountain biking. The first time I got back on a bike after many years all the good memories I had of riding through beautiful bike trails with friends came flooding back.  
 
 
