@@ -28,8 +28,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Competent with programming practises such as OOP, TDD, MVC
 - Efficient work using Agile/XP
-- Web development with Ruby, Rails, JavaScript, HTML, CSS and React
-- SQL, postgreSQL, sqlite
+- Web development with Ruby, Rails, JavaScript,SQL, postgreSQL, sqlite, HTML, CSS and React
 - Testing frameworks such as RSpec, Jasmine
 
 #### Ealing Tertiary College (98 – 99)
@@ -68,8 +67,9 @@ Setting up and configuring computer networks
 
 ## Hobbies
 
-- I play basketball regularly in a local league
-- Learning Romanian. Slowly but surely I am working my way through the ranks of Duolingo to improve my Romanian and be able to order food and drinks in Romania on my holidays.
+- I enjoy playing basketball and when I go on vacation, some basketball has to be involved! It is a real passion of mine and I love the team work and competitiveness, even when I lose it motivates me to learn and improve so we win next time.
+- Learning Romanian. Slowly but surely I am working my way through the ranks of Duolingo to improve my Romanian. I want to be able to order food and drinks during my holidays.
+- I like to keep active, so during lockdown I rediscovered my love of mountain biking. The first time I got back on a bike after many years all the good memories I had of riding through beautiful bike trails with friends came flooding back.  
 
 
 ## Contact
