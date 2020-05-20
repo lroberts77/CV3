@@ -18,7 +18,15 @@ During my time at Makers, I was tasked with programming in pairs or teams nearly
 
 ## Projects
 
+First Header  | Second Header | third Headrer
+------------- | --------------| -------------
+Content Cell  | Content Cell  | cell
+Content Cell  | Content Cell  | cell
 
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| <a href="https://github.com/Apliz/MakersBnb"><img width="1604" alt="" src="" height="222" width="258"> </a> [Makers Bnb] (https://github.com/Apliz/MakersBnb)|  <a href=""><img width="1604" alt="" src="" height="222" width="258"> </a> | <a href=""><img width="1604" alt="" src="" height="222" width="258"> </a> \| |
+| Makers Academy | Makers Academy weekend challenge | Week 10 of Makers Academy, to showcase solo understanding in OOP and TDD. Written in Ruby |
 
 <!-- #### This Skill
 
