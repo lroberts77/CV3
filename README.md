@@ -20,7 +20,7 @@ During my time at Makers, I was tasked with programming in pairs or teams nearly
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| <a href="https://github.com/Apliz/MakersBnb"><img width="1604" alt="" src="" height="222" width="258"> </a> [Makers Bnb](https://github.com/Apliz/MakersBnb)|  <a href="https://github.com/Team-react/Playlist_App"><img width="1604" alt="" src="" height="222" width="258"> </a> [Spotify app](https://github.com/Team-react/Playlist_App) | <a href="https://github.com/lroberts77/Bank-account"><img width="1604" alt="" src="" height="222" width="258"> </a> [Bank account](https://github.com/lroberts77/Bank-account) \| [Gilded Rose](https://github.com/lroberts77/GildedRose-Refactoring-Kata) |
+| <a href="https://github.com/Apliz/MakersBnb"><img width="1604" alt="" src="./Assets/bnb.png" height="130" width="258"> </a> [Makers Bnb](https://github.com/Apliz/MakersBnb)|  <a href="https://github.com/Team-react/Playlist_App"><img width="1604" alt="" src="./Assets/play.png" height="130" width="258"> </a> [Spotify app](https://github.com/Team-react/Playlist_App) | <a href="https://github.com/lroberts77/Bank-account"><img width="1604" alt="" src="./Assets/bank.jpg" height="130" width="258"> </a> [Bank account](https://github.com/lroberts77/Bank-account) \| [Gilded Rose](https://github.com/lroberts77/GildedRose-Refactoring-Kata) |
 | Makers Academy | Makers Academy weekend challenge | Week 10 of Makers Academy, to showcase solo understanding in OOP and TDD. Written in Ruby |
 
 <!-- #### This Skill
