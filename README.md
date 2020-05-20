@@ -4,7 +4,8 @@
 [Projects](#Projects) |
 [Education](#Education) |
 [Experience](#Experience) |
-[Hobbies](#Hobbies)
+[Hobbies](#Hobbies) |
+[Contact](#Contact)
 
 E-commerce manager turned software Developer, I am a recent graduate of Makers Academy May 2020. Inquisitive to all things tech and music, I pride myself in attention to detail, problem solving and learning new things to enable me to help others. I strive to build a career in Software Development, where I am challenged daily with strategical thinking at the forefront of the evolving technological world.
 
@@ -93,5 +94,5 @@ Setting up and configuring computer networks
 
 ## Contact
 - email: liamroberts77@googlemail.com
-- phone: 07717749485
+- phone: 07717 749 485
 - city: London
