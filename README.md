@@ -25,7 +25,7 @@ Content Cell  | Content Cell  | cell
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| <a href="https://github.com/Apliz/MakersBnb"><img width="1604" alt="" src="" height="222" width="258"> </a> [Makers Bnb] (https://github.com/Apliz/MakersBnb)|  <a href=""><img width="1604" alt="" src="" height="222" width="258"> </a> | <a href=""><img width="1604" alt="" src="" height="222" width="258"> </a> \| |
+| <a href="https://github.com/Apliz/MakersBnb"><img width="1604" alt="" src="" height="222" width="258"> </a> [Makers Bnb](https://github.com/Apliz/MakersBnb)|  <a href="https://github.com/lroberts77/Bank-account"><img width="1604" alt="" src="" height="222" width="258"> </a> [Bank account](https://github.com/lroberts77/Bank-account) | <a href="https://github.com/Team-react/Playlist_App"><img width="1604" alt="" src="" height="222" width="258"> </a> [Spotify app](https://github.com/Team-react/Playlist_App) \| |
 | Makers Academy | Makers Academy weekend challenge | Week 10 of Makers Academy, to showcase solo understanding in OOP and TDD. Written in Ruby |
 
 <!-- #### This Skill
