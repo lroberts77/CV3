@@ -7,7 +7,7 @@
 [Hobbies](#Hobbies) |
 [Contact](#Contact)
 
-E-commerce manager turned software Developer, I am a recent graduate of Makers Academy May 2020. Inquisitive to all things tech and music, I pride myself in attention to detail, problem solving and learning new things to enable me to help others. I strive to build a career in Software Development, where I am challenged daily with strategical thinking at the forefront of the evolving technological world.
+E-commerce manager turned software Developer, I am a recent graduate of Makers Academy May 2020. Inquisitive to all things tech and music, I pride myself in attention to detail, problem solving and learning new things to enable me to help others. I'm looking forward to building a career in Software Development, where I can use the skills I have acquired and learn new skills.
 
 ## Skills
 
