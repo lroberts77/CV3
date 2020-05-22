@@ -1,21 +1,17 @@
-# Liam Roberts
-
-[Skills](#Skills)  |
+<h1 align=center> 
+ Liam Roberts
+</h1>
+<div align="center">
 [Projects](#Projects) |
 [Education](#Education) |
+[Skills](#Skills)  |
 [Experience](#Experience) |
 [Hobbies](#Hobbies) |
 [Contact](#Contact)
+</div>
 
-E-commerce manager turned software developer, I am a recent graduate of Makers Academy May 2020 skilled in Ruby and JS. I pride myself in attention to detail, problem solving and learning new things which also enables me to help others. I'm determined to work hard towards building a career in software development, where I can use the skills I have acquired and learn new skills.
 
-## Skills
-
-#### Efficient and economical
-I consciously try to be as efficient as possible, which sometimes conflicts with my need to make sure everything is as perfect as possible. But I have learned to strike a good balance between the two. My last role has taught me a lot about working under pressure, working methodically to solve problems and communication which I have used to help me to become a better software developer.
-
-#### Communication and teamwork
-During my time at Makers, I was tasked with programming in pairs or teams nearly every day of the course. Communication is crucial to continuous learning as well as being able to summarise problems to find efficient solutions. I am confident in explaining technological concepts with metaphors and non-technical language in order to make it as accessible as possible.
+Adaptable software developer with a can do attitude, I am a recent graduate of Makers Academy May 2020 skilled in Ruby and JavaScript. I take pride in attention to detail, problem solving and learning new things which also enables me to help others. I'm determined to work hard towards building a career in software development, where I can use the skills I have acquired and learn new ones.
 
 ## Projects
 
@@ -24,33 +20,30 @@ During my time at Makers, I was tasked with programming in pairs or teams nearly
 |<img width="1604" alt="" src="./Assets/bnb.png" height="150" width="258"> | <img width="1604" alt="" src="./Assets/play.png" height="150" width="258">  | <img width="1604" alt="" src="./Assets/bank.jpg" height="150" width="258">  |
 | Our first Makers Academy team project. Given just under 2 weeks to make a rival to airbnb and learn rails from scratch. We taught ourselves rails and authentication with relational databases in postgresql. | Short on time and tired of your playlists that you keep forgetting to update? No problem Introducing: [ROAD TO DISCOVERY](https://road-to-discovery.herokuapp.com/). Created using React, spotifys API, Travis for CI and automated deployment to heroku in just over a week. | Week 10 of Makers Academy, to showcase solo understanding in OOP and TDD. Written in Ruby and tested with rspec and simplecov. |
 
-<!-- #### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
- -->
 
 ## Education
 
 #### Makers Academy (Feb 2020 to May 2020)
 
-- Competent with programming practises such as OOP, TDD, MVC
-- Efficient work using Agile/XP
-- Web development with Ruby, Rails, JavaScript,SQL, postgreSQL, sqlite, HTML, CSS and React
-- Testing frameworks such as RSpec, Jasmine
+Makers Academy is a 16 week intensive coding bootcamp focused on teaching the fundamentals of software development with Ruby and JavaScript.
+
+During my time at Makers, I learned:
+- principles of OOD and TDD
+- How to write clean, reliable and maintainable code
+- Pair-programming in the driver navigator style
+- How to work in an agile development team with XP values
+- Collaboration on GitHub projects with Continuous integration and automated deployment
 
 #### Ealing Tertiary College (98 – 99)
 BTEC GNVQ IT intermediate (Merit)
+
+## Skills
+
+#### Efficient and economical
+I consciously try to be as efficient as possible, which sometimes conflicts with my need to make sure everything is as perfect as possible. But I have learned to strike a good balance between the two. My last role has taught me a lot about working under pressure, working methodically to solve problems and communication which I have used to help me to become a better software developer.
+
+#### Communication and teamwork
+Teamwork and communication was an essential part of my previous role. Making sure everyone was aware of what they needed to do whilst communicating with each other to complete tasks cohesively. This enabled me to see the benefits of teamwork and communication which I use every day as a software developer to problem solve, pair programme and coach.
 
 ## Experience
 
@@ -84,12 +77,13 @@ Setting up and configuring computer networks.
 
 ## Hobbies
 
-- I enjoy playing basketball and when I go on vacation, some basketball has to be involved! It is a real passion of mine and I love the team work and competitiveness, even when I lose it motivates me to learn and improve so we win next time.
-![ball](https://github.com/lroberts77/CV/blob/master/Assets/ball-pic.jpg?raw=true "2019-20 season cup winner and finals MVP")
-- Learning Romanian. Slowly but surely I am working my way through the ranks of Duolingo to improve my Romanian. I want to be able to order food and drinks during my holidays.
+- I enjoy playing basketball and when I go on holiday, some basketball has to be involved! It is a real passion of mine and I love the team work and competitiveness, even when we lose it motivates me to learn and improve so we win next time.
+![ball](https://github.com/lroberts77/CV/blob/master/Assets/ball-pic.jpg?raw=true "Liam Roberts 2019-20 season cup winner and finals MVP")
+
+- I enjoy travelling and experiencing different cultures. I usuallly learn some of the language of the country I travel to, but then end up forgetting it after a while. So I have decided to keep learning Romanian until I am fluent and hopefully not forget it.
+
 ![dracula](https://github.com/lroberts77/CV/blob/master/Assets/draculas-castle.jpg?raw=true "Dracula's castle, ROMANIA")
 - I like to keep active, so during lockdown I rediscovered my love of mountain biking. The first time I got back on a bike after many years all the good memories I had of riding through beautiful bike trails with friends came flooding back.  
-
 
 ## Contact
 - email: liamroberts77@googlemail.com
