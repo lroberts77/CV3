@@ -2,12 +2,14 @@
  Liam Roberts
 </h1>
 <div align="center">
+
 [Projects](#Projects) |
 [Education](#Education) |
 [Skills](#Skills)  |
 [Experience](#Experience) |
 [Hobbies](#Hobbies) |
 [Contact](#Contact)
+
 </div>
 
 
