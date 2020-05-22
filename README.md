@@ -43,10 +43,13 @@ BTEC GNVQ IT intermediate (Merit)
 ## Skills
 
 #### Efficient and economical
-I consciously try to be as efficient as possible, which sometimes conflicts with my need to make sure everything is as perfect as possible. But I have learned to strike a good balance between the two. My last role has taught me a lot about working under pressure, working methodically to solve problems and communication which I have used to help me to become a better software developer.
+To enable me to work effectively I carefully balance my need to make all of my as perfect as possible with my concious effort to be as efficient as possible. During my career I have learned to strike a good balance between the two. My last role has taught me a lot about working under pressure, working methodically to solve problems and communication which I have used to help me to become a better software developer.
 
 #### Communication and teamwork
 Teamwork and communication was an essential part of my previous role. Making sure everyone was aware of what they needed to do whilst communicating with each other to complete tasks cohesively. This enabled me to see the benefits of teamwork and communication which I use every day as a software developer to problem solve, pair programme and coach.
+
+#### Analytical thinking and problem solving
+Throughout my career the main part of my job has been to solve problems on a daily basis. This has allowed me to refine my analytical skills by first understanding the problems, prioritizing them and then dividing them into smaller solvable pieces. Along with teamwork and communication this approach has yielded positive results during my career.
 
 ## Experience
 
