@@ -1,6 +1,7 @@
 <h1 align=center> 
  Liam Roberts
 </h1>
+
 <div align="center">
 
 [Projects](#Projects) |
@@ -82,7 +83,7 @@ Setting up and configuring computer networks.
 - I enjoy playing basketball and when I go on holiday, some basketball has to be involved! It is a real passion of mine and I love the team work and competitiveness, even when we lose it motivates me to learn and improve so we win next time.
 ![ball](https://github.com/lroberts77/CV/blob/master/Assets/ball-pic.jpg?raw=true "Liam Roberts 2019-20 season cup winner and finals MVP")
 
-- I enjoy travelling and experiencing different cultures. I usuallly learn some of the language of the country I travel to, but then end up forgetting it after a while. So I have decided to keep learning Romanian until I am fluent and hopefully not forget it.
+- I enjoy travelling and experiencing different cultures. I usuallly learn some of the language of the country I travel to, but then end up forgetting it due to lack of use. So I have decided to keep learning Romanian until I am fluent and hopefully not forget it.
 
 ![dracula](https://github.com/lroberts77/CV/blob/master/Assets/draculas-castle.jpg?raw=true "Dracula's castle, ROMANIA")
 - I like to keep active, so during lockdown I rediscovered my love of mountain biking. The first time I got back on a bike after many years all the good memories I had of riding through beautiful bike trails with friends came flooding back.  
